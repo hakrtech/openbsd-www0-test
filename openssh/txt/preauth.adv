@@ -146,7 +146,9 @@ This document can be found at:  http://www.openssh.com/txt/preauth.adv
 
 	We feel that this method of releasing served the community best for
 	a "contained" vulnerability of this kind.  We do not suggest this is
-	neccessarily the correct information release process for all problems.
+	neccessarily the correct information release process for all problems,
+	and as firm believers of full disclosure have never suggested that,
+	though we believe that disclosure must be carefully handled.
 
 Appendix:
 
